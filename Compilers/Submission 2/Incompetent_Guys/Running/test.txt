@@ -1,0 +1,7 @@
+awk '{}' input-file
+awk '$3>0 {print $1,$2*$4} input-file
+awk '{}' input-file in2-file
+awk '{print NF}' input.txt
+awk '{print ORS}' data.csv  \\error expected
+awk '$4==0 {print}' data.awk data2.txt
+awk '{print $0}' data.text

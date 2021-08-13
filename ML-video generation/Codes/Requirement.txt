@@ -1,0 +1,7 @@
+Run the main file by keeping utils.py and ops.py file in the same directory 
+because main code has dependencies on those module.
+
+Dataset can be found by link:
+https://drive.google.com/drive/folders/1CnYINTovcqk6im8aXU8PJ7zEpND17c_G?usp=sharing
+
+interpolation_and_L2.py file contains the prediction Part

@@ -1,0 +1,15 @@
+$ awk options 'selection _criteria {action }' input-file > output-file
+
+$ awk '{print}' employee.txt
+
+$ awk 'NF > 0' geeksforgeeks.txt
+
+$ awk '/manager/ {print}' employee.txt 
+
+$ awk '{print $1,$4}' employee.txt 
+
+$ awk '{print NR "- " $1 }' geeksforgeeks.txt
+
+$ awk '{ if (length($0) > max) max = length($0) } END { print max }' geeksforgeeks.txt
+
+$ awk 'BEGIN { for(i=1;i<=6;i++) print "square of", i, "is",i*i; }'
