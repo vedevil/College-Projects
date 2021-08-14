@@ -1,0 +1,7 @@
+Project Name					Course code	Course name					Instructor name
+-----------------------------------------------------------------------------------------------------------------------------------
+Android app development - Remainder app		CS611		Wireless network and Mobile data management	RK Ghosh
+Video generation using Machine Learning		CS550		Machine Learning				Subhidh ali
+Search engine					DS501		Information Retrieval				Soumajit Pramanik
+Compiler using C language			CS251		Introduction to	Language processing		Amit kumar dhar
+
