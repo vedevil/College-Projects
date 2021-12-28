@@ -4,5 +4,5 @@ Android app development - Remainder app		CS611		Wireless network and Mobile data
 Video generation using Machine Learning		CS550		Machine Learning				Subhidh ali
 Search engine					DS501		Information Retrieval				Soumajit Pramanik
 Compiler using C language			CS251		Introduction to	Language processing		Amit kumar dhar
-Frequency reuse implementation in ns3 EE777 Mobile communication systems  Arzad kehlani
+Frequency reuse implementation in ns3           EE777       Mobile communication systems  Arzad kehlani
 Median filtered image detection   DS601 Digital image processing    Nitin khanna
