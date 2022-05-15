@@ -6,3 +6,5 @@ Search engine					DS501		Information Retrieval				Soumajit Pramanik
 Compiler using C language			CS251		Introduction to	Language processing		Amit kumar dhar
 Frequency reuse implementation in ns3           EE777           Mobile communication systems                    Arzad kehlani
 Median filtered image detection                 DS601           Digital image processing                        Nitin khanna
+Automatic sppech recognisation ans sp_iden	DS602			Digital speech processing				Anil kumar sao
+Fruit classifier						DS259			Data anakytics and viz					Gagan raj gupta
